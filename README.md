@@ -11,6 +11,17 @@ I'm a dreamer....
 
 Find out the most sucessful team, player and factor contributing to win or loss of a team
 
+## Demo
+
+# Click here : https://youtu.be/WRpjE3aCZMc
+
+
+
+
+
+https://user-images.githubusercontent.com/65757568/137855665-c48d58f7-a2a2-47b2-9c55-aee07a015b1c.mp4
+
+
 
 ## Roadmap
 
@@ -40,13 +51,7 @@ Find out the most sucessful team, player and factor contributing to win or loss 
 
 - [@shrinidhiG](https://github.com/Shrinidhig29)
 
-  
-## Demo
-
-soon will uploaded
-
-
-  
+    
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://welcometocodelife.blogspot.com/)
